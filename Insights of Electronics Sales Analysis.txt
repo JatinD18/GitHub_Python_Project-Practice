@@ -1,0 +1,113 @@
+Q.1) 
+
+we got our month number we got our  sales and US dollars we got these labels  and you can see the relative thing so  worst in January goes up the dips then  
+goes up and as a data scientist with  like these results I'll try to like  figure out you know why we're certain  months better than others like you know  
+when in the fourth month in April did we  maybe spend more money on advertising I  try to look for the correlations that  you know probably led to these 
+better  results so like in the month of December  if I'm thinking about it like why would  we do so much better in December but if  you kind of think about 
+the u.s.  holidays  I mean nationally I mean they're  international holidays but like the big  thing in December is Christmas all in  you know all the 
+holidays people are  buying a lot of gifts for each other so  it makes sense that December has the  most number of sales that that's like  very you know that 
+definitely like  checks out to me and maybe everyone's  done spending money by January so this  is the types of things were kind of like  figuring out 
+from our day.
+
+
+                           ======================================================================================
+
+- Sales in January month is worse than December month and there is slight improvement in month of April.
+- We like to spend more money on Advertisment like in months of April and December.
+- In the month of December, there are holidays like Christmas and New Year Eve and everybody buys gift for each other.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q.2) 
+
+we see  that San Francisco is the highest  selling you know the best performing  city of Keith's SuperDuper cool  electronics and you know as data scientists 
+again I might ask myself  some questions you know why is San  Francisco so much higher than the other  places other places well this is an  electronics store
+maybe it's because  Silicon Valley needs more electronics so  you know that would be one reason you  know maybe the tech to advertise is like  better in 
+San Francisco or more people  have more money in San Francisco you  know I could start kind of creating some  hypotheses on the data on why that value  
+is what it is and same thing for like  the lowest value is like you know why's  Portland Main the smallest well out of  all these cities I see here 
+it's by the  smallest city maybe advertising is bad  there you know you can use this chart to  help you really like understand your  data and like give 
+key insights to the  business people that are gonna hopefully  improve the sales moving forward
+
+
+                           ======================================================================================
+
+- San Francisco is city which have the big market for Electronics sales and advertising there will benefit a lot.
+- Silicon Valley's location in the San Francisco area contributes to its strong electronics market.
+- On the other hand, Portland, Maine, has the smallest electronics market among all US cities.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q.3)
+
+we have peaks at around 11 a.m. or  11 1111 a.m. whatever you however you  speak your x and then another peak at  around 19 so about 7:00 p.m. that is so  
+11 a.m. and 7:00 p.m. that kind of makes  sense it's like you know early in the  day you're getting maybe you're doing  your chores or like 7:00 p.m. 
+makes  sense maybe it's after work type of deal  so those are the peak times that people  make orders so if I was to answer this  question I would say 
+you know we should  probably if we were to advertise  effectively what is the question asking  what time should we display  advertisements immaculate 
+maximize  likelihood of customers buying I would  say this chart kind of shows us that you  know maybe right before 11:00 a.m. is a  good time to put an 
+ad or 12 is a good  time to put an ad or you know 6 p.m. or  7:00 p.m. 18 or 19 here would be good  times to display ads because those were  the peaks of 
+when all the orders in our  data set happened and we could label  this chart the same way we did for the  otherones if we want to so I could do  like  cool 
+that looks pretty good to me and  this is something you could present to a  business person and say hey look at this  data this is from the past year 
+let's  target our ads at this time in this time  and maybe you would break it down a  little bit further because this chart  was for the entire every city 
+maybe you  could do specific charts for certain  cities it's all stuff worth playing  around with.
+
+
+                           ======================================================================================
+
+- Data analysis reveals two main peaks in customer orders: around 11 a.m. and 7 p.m.
+- These times coincide with morning and post-work activities.
+- To maximize advertising effectiveness, consider targeting ads just before 11 a.m., around 12 p.m., and at 6 p.m. or 7 p.m.
+- Segmenting data by specific cities could offer additional insights for tailored advertising strategies.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q.4)
+
+if you wanted to  see the most the items that were most  commonly sold as three items together  you do that past the three in year but  we'll keep that as 
+a two and that's  pretty cool and so what would we do with  this well you know maybe you try to be  smart with promotions that you're  offering if 
+you're selling an iPhone  maybe like try to smart offer a smart  deal so you get more people people  already probably want to buy an extra  
+lightning charging cable but maybe you  do a smart deal where you can kind of  lure an even bigger audience to buy that  lightning charger cable and 
+you can kind  of repeat that with these other common  pairs and maybe try to you know use that  to your advantage as a business user so  
+this data would help a business kind of  make decisions like that. 
+
+			=========================================================================================
+
+- To identify common sets of three items, start by analyzing data for pairs.
+- Utilize this insight to create more intelligent promotions for business.
+- For example, when selling an iPhone, offer bundle deals that include related items like a lightning charging cable to attract a wider audience.
+- Use this data strategically to inform business decisions and boost sales.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q.5) 
+
+the triple-a and double-a  batteries as we go to the other products  like LG dryer that's pretty dang  expensive and it makes sense that you  know it might
+it caused it to be low  over here and then you look at some  inconsistencies with that like you might  say hey the price is very high for the  Mac paw the 
+MacBook Pro laptop and the  ThinkPad laptop why is the quantity  ordered like it's so much higher than  the LG dryer and LG washing machine well  you know 
+I guess more people are looking  to buy MacBook Pros you know there's  more students in the world there's more  more demand for MacBook Pros so this  
+overlay can't tell us everything but I  would say it is pretty good evidence for  why like the double-a and triple-a  batteries are so high  I the 
+Lightning charging cable is so  high the USBC charging cable is so high  those are such low prices that the like  the quantity ordered ultimately shoots 
+up because more willing more people are  willing to pay that price
+
+- High demand for triple-A and double-A batteries and electronic accessories (e.g., Lightning and USBC cables) drives their high quantity ordered.
+- Expensive products like the LG dryer have lower demand due to their price.
+- Popular items like MacBooks and ThinkPad laptops see high quantities ordered, primarily because of their widespread appeal, especially among students.
+- The overlay offers valuable insights into the dynamics of product demand and pricing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
